@@ -1,0 +1,1 @@
+dotnet version 10.x or higher
